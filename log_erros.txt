@@ -1,0 +1,7 @@
+Erro: Nome não pode ser vazio e idade deve ser maior que 18.
+Erro: Divisão por zero não é permitida.
+Erro: Nome não pode ser vazio e idade deve ser maior que 18.
+Erro: Divisão por zero não é permitida.
+Erro: Nome não pode ser vazio e idade deve ser maior que 18.
+Erro: Divisão por zero não é permitida.
+Erro: Nome não pode ser vazio e idade deve ser maior que 18.
